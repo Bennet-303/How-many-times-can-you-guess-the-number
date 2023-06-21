@@ -1,4 +1,4 @@
-## Python number guessing game
+## Python How-many-times-can-you-guess-the-number game
 
 number guessing game built with python
 
