@@ -35,4 +35,4 @@ or "python Game.py" on mac and linux
     > If possible, after getting the program to fully functional in the terminal, introduce a GUI version of the program.   X
 
 
-# When making changes to the program, please do testing first in the sandbox branch before releasing to the main branch!
+# When uploading changes to the program, please do testing first in the sandbox branch before releasing to the main branch!
